@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { FooterComponent } from './shared/footer/footer.component';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app2';
+  title = 'Meu titulo de estudo';
 }
